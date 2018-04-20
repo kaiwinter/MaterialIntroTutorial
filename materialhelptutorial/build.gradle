@@ -27,7 +27,7 @@ android {
 }
 
 dependencies {
-    final SUPPORT_LIBRARY_VERSION = '27.0.2'
+    final SUPPORT_LIBRARY_VERSION = '27.1.1'
 
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
